@@ -21,7 +21,7 @@ Este é um programa simples em Python que converte uma quantidade total de dias 
 
 ## 🚀 Como executar
 
-1. Copie o código para um arquivo local chamado `idade_em_dias.py`.
+1. Copie o código para um arquivo local chamado `Exercicio.py`.
 2. Execute o programa com:
    ```bash
-   python idade_em_dias.py
+   python Exercicio.py
